@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@types/mqtt": "^2.5.0",
+    "mqtt": "^5.9.0"
+  }
+}
